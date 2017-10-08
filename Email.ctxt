@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Email
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Email()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Email\r\n
+numComments=3
